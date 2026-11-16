@@ -94,3 +94,8 @@ from .mira import (
     MIRAConfig as MIRAConfig,
     load_mira_checkpoint as load_mira_checkpoint,
 )
+from .watchsleepnet import (
+    WatchSleepNet as WatchSleepNet,
+    ResidualBlock1d as ResidualBlock1d,
+    CausalTemporalBlock as CasualTemporalBlock,
+)
