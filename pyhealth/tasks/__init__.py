@@ -106,7 +106,7 @@ from .seizure_detection_chbmit import (
 from .sleep_staging_ear_eeg import (
     SleepStagingEarEEG as SleepStagingEarEEG,
 )
-from .dreamt_sleep_staging import (
+from .sleep_staging_dreamt import (
     SleepStagingDREAMT as SleepStagingDREAMT
 )
 from .eegbci import (
